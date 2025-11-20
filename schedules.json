@@ -1,0 +1,25 @@
+{
+    "updated_at": 1762571940,
+    "version": 1762571940,
+    "days": {
+        "Monday": [
+            {
+                "id": "s1",
+                "schedule_id": 1,
+                "class_name": "CARDIO",
+                "start_time": "19:20:00",
+                "end_time": "21:20:00",
+                "trainer": "SIR MARK",
+                "capacity": 10,
+                "location": "Training room",
+                "status": "active"
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    }
+}
